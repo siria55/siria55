@@ -1,4 +1,4 @@
-- :ribbon: Hi, I’m siria, Lemon :lemon: knock dog's :dog: 
+- :ribbon: Hi, I’m siria, lemon :lemon: knock dog's :dog: 
 - 👀 I’m trying to develop full stack apps and games
 - 🌱 I’m currently learning 日本語 and new development skills
 - 💞️ I’m looking for a remote job (frontend, backend and fullstack)
