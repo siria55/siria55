@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning 日本語 and new development skills
 - 💞️ I’m looking for a remote job (frontend, backend and fullstack)
 - 📫 Reach me via siria55lee@gmail.com
-- :cherry_blossom: "To the time to life, rather than to life in time" (给时光以生命，而非给生命以时光)
+- :cherry_blossom: "Don't try to add more years to your life. Better add more life to your years." (给时光以生命，而非给生命以时光)
