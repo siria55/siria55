@@ -1,6 +1,6 @@
 - :ribbon: Hi, I’m siria, lemon :lemon: knock dog's :dog: 
 - 👀 I’m trying to develop full stack apps and games
-- 🌱 I’m currently learning 日本語:jp: and new development skills:computer:
+- 🌱 I’m currently learning 日本語 :jp: and new development skills:computer:
 - 💞️ I’m looking for a remote job (frontend, backend and fullstack)
 - :hammer: familiar with React, Node, JavaScript, ES, Python, C++
 - 📫 Reach me via siria55lee@gmail.com
